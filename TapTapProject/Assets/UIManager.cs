@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
+    public Canvas jungle;
+    public Text name, age;
     public AudioClip buttonPress, bkgMusic;
     public Text titleText;
     public Animation spiderAnim;

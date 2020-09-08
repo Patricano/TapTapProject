@@ -8,6 +8,7 @@ public class SceneMng : MonoBehaviour
 {
     public void NextScene(string other)
     {
-        SceneManager.LoadScene("OtherSceneName", LoadSceneMode.Additive);
+
+        SceneManager.LoadScene(other, LoadSceneMode.Single);
     }
 }
