@@ -2,6 +2,6 @@
 By Team Tap Tap
 ------------------------------
 Members:
-Pratik
-Leon
+Pratik,
+Leon,
 Cassaino
